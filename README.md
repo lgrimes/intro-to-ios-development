@@ -30,5 +30,6 @@ prior to the first session.
 
 ## Resources
 - [Swift Guided Tour Playground](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.playground.zip)
+- [Swift Playgrounds](https://apps.apple.com/au/app/swift-playgrounds/id1496833156?mt=12)
 - [Everyone Can Code by Apple](https://www.apple.com/au/everyone-can-code/)
 - [Google Drive Resources (slides, recordings etc)](https://drive.google.com/drive/folders/1uajk_c2OIUlPX9P4h1I9C1urlUQ4Z2bq?usp=sharing)
